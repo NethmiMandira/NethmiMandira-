@@ -15,11 +15,14 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
 #### **Frontend**
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -35,6 +38,7 @@
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 #### **Databases**
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -50,7 +54,8 @@
 ---
 
 ### ⚡ Quick Facts
-- 🔭 **Focus:** Building scalable web and mobile applications across modern full-stack frameworks.
-- 🎨 **Design:** Passionate about glassmorphism, responsive layouts, and modern dark themes.
-- 🌱 **Learning:** Continuously refining clean code, system architecture, and efficient database designs.
-- 📫 **How to reach me:** [nethmimandira273@gmail.com](mailto:nethmimandira273@gmail.com)
+- 🔭 **Currently Building:** Enterprise web applications and cross-platform mobile apps using **MERN**, **Spring Boot**, **ASP.NET**, and **Flutter**.
+- 🎨 **Design Style:** Dedicated to crafting sleek glassmorphism UI layouts, dark mode interfaces, and seamless, responsive user experiences.
+- 🌱 **Learning & Up-skilling:** Exploring advanced microservices architecture, robust database optimization, and cross-platform performance tuning.
+- 💼 **Open To:** Full-stack development roles, web/mobile app build collaborations, and open-source contributions.
+- 📫 **Reach Me:** [nethmimandira273@gmail.com](mailto:nethmimandira273@gmail.com)
