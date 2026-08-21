@@ -2,6 +2,10 @@
 <h3 align="center">Full-Stack Developer & Tech Enthusiast</h3>
 
 <p align="center">
+  📍 <b>Based in:</b> Kurunegala, Sri Lanka &nbsp;|&nbsp; 🎓 <b>Education:</b> Higher National Diploma in Information Technology (HNDIT) @ Sri Lanka Institute of Advanced Technological Education
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/nethmi-mandira" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
