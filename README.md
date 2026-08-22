@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer & Tech Enthusiast</h3>
 
 <p align="center">
-  📍 <b>Based in:</b> Kurunegala, Sri Lanka &nbsp;|&nbsp; 🎓 <b>Education:</b> Higher National Diploma in Information Technology (HNDIT) @ Sri Lanka Institute of Advanced Technological Education
+  🎓 <b>Education:</b> Higher National Diploma in Information Technology (HNDIT) @ Sri Lanka Institute of Advanced Technological Education
 </p>
 
 <p align="center">
@@ -51,6 +51,7 @@
 #### **Tools & Platforms**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
@@ -60,6 +61,6 @@
 ### ⚡ Quick Facts
 - 🔭 **Currently Building:** Enterprise web applications and cross-platform mobile apps using **MERN**, **Spring Boot**, **ASP.NET**, and **Flutter**.
 - 🎨 **Design Style:** Dedicated to crafting sleek glassmorphism UI layouts, dark mode interfaces, and seamless, responsive user experiences.
-- 🌱 **Learning & Up-skilling:** Exploring advanced microservices architecture, robust database optimization, and cross-platform performance tuning.
+- 🌱 **Learning & Up-skilling:** Exploring advanced microservices architecture, CI/CD automation, robust database optimization, and cross-platform performance tuning.
 - 💼 **Open To:** Full-stack development roles, web/mobile app build collaborations, and open-source contributions.
 - 📫 **Reach Me:** [nethmimandira273@gmail.com](mailto:nethmimandira273@gmail.com)
