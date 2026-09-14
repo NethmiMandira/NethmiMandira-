@@ -63,4 +63,4 @@
 - 🎨 **Design Style:** Dedicated to crafting sleek glassmorphism UI layouts, dark mode interfaces, and seamless, responsive user experiences.
 - 🌱 **Learning & Up-skilling:** Exploring advanced microservices architecture, CI/CD automation, robust database optimization, and cross-platform performance tuning.
 - 💼 **Open To:** Full-stack development roles, web/mobile app build collaborations, and open-source contributions.
-- 📫 **Reach Me:** [nethmimandira273@gmail.com](mailto:nethmimandira273@gmail.com)
+- 📫 **Reach Me:** [dev.nethmimandira@gmail.com](mailto:dev.nethmimandira@gmail.com)
